@@ -1,7 +1,6 @@
-# gatsby-starter-gcn
+# GatsbyStart
 
-A starter template to build amazing static websites with Gatsby, Contentful and Netlify. Inspired by [gatsby-contentful-starter](https://github.com/contentful-userland/gatsby-contentful-starter).
-
+A starter template to build amazing static websites with Gatsby, Contentful and Netlify.
 ## Features
 
 - Contentful integration with ready to go placeholder content
@@ -19,25 +18,19 @@ A starter template to build amazing static websites with Gatsby, Contentful and 
 - [Gatsby Standard module](https://www.npmjs.com/package/eslint-config-gatsby-standard) for linting Javascript with StandardJS
 - Stylelint support for Styled Components to lint the CSS in JS
 
-## Demo
-
-https://gcn.netlify.com/
-
-![](screenshots/demo.jpg)
-
 ## Getting Started
 
 ### Install
 
 ```
-git clone https://github.com/ryanwiemer/gatsby-starter-gcn.git
+git clone https://github.com/pdhoward/gatsbystart
 npm i
 ```
 
 Or via the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
 
 ```
-gatsby new gatsby-starter-gcn https://github.com/ryanwiemer/gatsby-starter-gcn.git
+gatsby new gatsby-starter-gcn https://github.com/pdhoward/gatsbystart
 ```
 
 ### Setup Contentful
