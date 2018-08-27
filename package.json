@@ -1,7 +1,7 @@
 {
   "name": "gatsbystart",
-  "description": "A starter template to build amazing static websites with Gatsby, Contentful and Netlify",
-  "version": "1.2.3",
+  "description": "A starter template Gatsby, Contentful and Netlify website - serving as basis for messaging apps",
+  "version": "0.5.0",
   "repository": "https://github.com/pdhoward/gatsbystart",
   "author": "xio",
   "dependencies": {
