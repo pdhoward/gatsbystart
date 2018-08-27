@@ -59,19 +59,19 @@ const Footer = () => (
       </Item>
       <Item>
         <a
-          href="https://github.com/ryanwiemer/gatsby-starter-gcn"
+          href="https://github.com/pdhoward/gatsbystart"
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-starter-gcn
+          intelligent web
         </a>{' '}
         by{' '}
         <a
-          href="https://github.com/ryanwiemer"
+          href="https://github.com/pdhoward"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @ryanwiemer
+          @urban_coder
         </a>
       </Item>
     </List>
