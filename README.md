@@ -1,6 +1,6 @@
 # GatsbyStart
 
-A starter template to build and deploy a static websites 
+A starter template to build and deploy a static websites
 ## Features
 
 - Contentful integration with ready to go placeholder content
@@ -42,6 +42,8 @@ gatsby new gatsby-starter-gcn https://github.com/pdhoward/gatsbystart
 3.  Enter in the requested info for your Contentful space found here: **app.contentful.com** → **Space Settings** → **API keys**. You will need to provide both a standard API key (first tab) and a management key (second tab).
 
 ## Customization
+
+Need to inspect use of contentful for triggering redeployment of the web app ?
 
 ### Website Data
 
