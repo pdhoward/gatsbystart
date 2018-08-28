@@ -1,6 +1,6 @@
 # GatsbyStart
 
-A starter template to build amazing static websites with Gatsby, Contentful and Netlify.
+A starter template to build and deploy a static websites 
 ## Features
 
 - Contentful integration with ready to go placeholder content
