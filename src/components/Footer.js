@@ -127,12 +127,12 @@ const Footer = () => (
           </a>
         </li>
         <li>
-          <a href="https://www.github.com/fathurmh" target="_blank">
+          <a href="https://github.com/pdhoward" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
         <li>
-          <a href="mailto:fathurmh@gmail.com" target="_blank">
+          <a href="mailto:info@xiollc.com" target="_blank">
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
         </li>
@@ -140,7 +140,7 @@ const Footer = () => (
       <Copyright>
         Built with{' '}
         <a href="https://www.gatsbyjs.org" target="_blank">
-          <strong>Gatsby</strong>
+          <strong>Intelligent Content</strong>
         </a>{' '}
         by{' '}
         <a href="https://fathurmh.github.io" target="_blank">
