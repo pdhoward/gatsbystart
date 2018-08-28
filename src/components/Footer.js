@@ -105,24 +105,14 @@ const Copyright = styled.div`
 const Footer = () => (
   <Container>
     <Wrapper>
-      <Social>
+      <Social>      
         <li>
-          <a href="https://www.facebook.com/fathurmh" target="_blank">
-            <FontAwesomeIcon icon={faFacebook} />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.twitter.com/fathurmh" target="_blank">
+          <a href="https://twitter.com/urban_coder" target="_blank">
             <FontAwesomeIcon icon={faTwitter} />
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/fathurmh" target="_blank">
-            <FontAwesomeIcon icon={faInstagram} />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/fathurmh" target="_blank">
+          <a href="https://www.linkedin.com/in/patrickhowardusa/" target="_blank">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </li>
