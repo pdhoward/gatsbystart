@@ -48,7 +48,7 @@ const Menu = () => {
   return (
     <Header>
       <Nav>
-        <ul>
+        <ul>               
           <li>
             <Link to="/" exact activeStyle={activeLinkStyle}>
               Home
