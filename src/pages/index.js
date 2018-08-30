@@ -14,7 +14,7 @@ const Index = ({ data }) => {
     <div>
       <SEO />
       <Container>
-        <PageTitle small>
+        <PageTitle small>          
           <img src={logo} alt="no deal" />
           <a
             href="https://twitter.com/chaoticbots"
