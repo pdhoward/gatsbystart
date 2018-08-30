@@ -48,10 +48,20 @@ const Menu = () => {
   return (
     <Header>
       <Nav>
-        <ul>               
+        <ul>
           <li>
             <Link to="/" exact activeStyle={activeLinkStyle}>
               Home
+            </Link>
+          </li>
+          <li>
+            <Link to="/config/" activeStyle={activeLinkStyle}>
+              Config
+            </Link>
+          </li>
+          <li>
+            <Link to="/counter/" activeStyle={activeLinkStyle}>
+              Counter
             </Link>
           </li>
           <li>

@@ -3,7 +3,9 @@ import CardList from '../components/CardList'
 import Card from '../components/Card'
 import Container from '../components/Container'
 import PageTitle from '../components/PageTitle'
+import logo from "../images/smlogo.png"
 import SEO from '../components/SEO'
+
 
 const Index = ({ data }) => {
   const posts = data.allContentfulPost.edges
@@ -13,12 +15,13 @@ const Index = ({ data }) => {
       <SEO />
       <Container>
         <PageTitle small>
+          <img src={logo} alt="no deal" />
           <a
             href="https://twitter.com/chaoticbots"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Strategic Machines
+            Strategic Machines, Inc.
           </a>
         </PageTitle>
         <CardList>
